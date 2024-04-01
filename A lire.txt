@@ -1,0 +1,5 @@
+J'ai fait les deux parties du TP séparement dans les fichiers tableau.swhift et dictionnaire.swift
+
+A défaut de les exécuter séparement, je n'ai pas compris pourquoi
+
+J'ai donc mis les deux parties dans le fichier main.swift
